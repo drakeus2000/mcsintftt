@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the-intercept-master.Plugins", "the-intercept-master.Plugins.csproj", "{55B20B22-D0CA-A1DF-672E-CDA1677C7205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the-intercept-master", "the-intercept-master.csproj", "{76BFA4B4-7EC1-2549-9C70-1DA01D30AE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the-intercept-master.Editor.Plugins", "the-intercept-master.Editor.Plugins.csproj", "{09A212D2-BC08-90E3-B6C6-11AD8AE10211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the-intercept-master.Editor", "the-intercept-master.Editor.csproj", "{16D4A4FE-7AB5-A18E-F701-2DB92A486283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B20B22-D0CA-A1DF-672E-CDA1677C7205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B20B22-D0CA-A1DF-672E-CDA1677C7205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B20B22-D0CA-A1DF-672E-CDA1677C7205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B20B22-D0CA-A1DF-672E-CDA1677C7205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BFA4B4-7EC1-2549-9C70-1DA01D30AE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BFA4B4-7EC1-2549-9C70-1DA01D30AE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BFA4B4-7EC1-2549-9C70-1DA01D30AE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BFA4B4-7EC1-2549-9C70-1DA01D30AE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A212D2-BC08-90E3-B6C6-11AD8AE10211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A212D2-BC08-90E3-B6C6-11AD8AE10211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A212D2-BC08-90E3-B6C6-11AD8AE10211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A212D2-BC08-90E3-B6C6-11AD8AE10211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D4A4FE-7AB5-A18E-F701-2DB92A486283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D4A4FE-7AB5-A18E-F701-2DB92A486283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D4A4FE-7AB5-A18E-F701-2DB92A486283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D4A4FE-7AB5-A18E-F701-2DB92A486283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

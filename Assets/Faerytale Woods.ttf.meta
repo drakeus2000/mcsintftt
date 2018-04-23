@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 783e0aca695a9ca4e9dfda0a5a2ae6f3
+timeCreated: 1485355597
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Faerytale Woods
+  fontNames:
+  - Faerytale Woods
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
